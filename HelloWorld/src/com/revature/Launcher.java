@@ -5,7 +5,7 @@ public class Launcher  {
     public static void main(String[] args) {
         // This is a print statement
         // It allows us to print a message to a console (the box that appears when we run the app)
-        System.out.println("Hello\" world!");
+        System.out.println("Hello world!");
         /* This is a block comment AKA multi-line comment
 
         System = This system. The console.
